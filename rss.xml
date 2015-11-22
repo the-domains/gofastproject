@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Go Fast Project]]></title>
+        <description><![CDATA[The Go Fast Project]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 Nov 2015 02:21:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Go Fast Project</p>]]></description>
+            <link>undefined39254430-eba1-4f4d-b1fd-3225ba0cb588/index.html</link>
+            <guid isPermaLink="false">39254430-eba1-4f4d-b1fd-3225ba0cb588</guid>
+            <pubDate>Sun, 22 Nov 2015 02:21:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
