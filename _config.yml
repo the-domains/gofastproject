@@ -1,20 +1,5 @@
-name: GoFastProject
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.72607
-title: The Go Fast Project
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-70481627-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#D8D8D0'
@@ -23,10 +8,13 @@ color:
     - '#18D8F0'
     - '#000000'
   brandStrength: 0.5
-  lightness: 0.0625
-  saturation: 0.4375
+  lightness: 1
   rhythmicContrast: 0
+  saturation: 0.4375
+cta: {}
+layout_spectrum: 1
+name: GoFastProject
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.72607
